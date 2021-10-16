@@ -2,7 +2,7 @@
 
 ## Geltungsbereich
 
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter Simon Dittlmann, charivari-action@dittlmann.com auf der Action on Google "Radio Charivari Rosenheim (Inoffiziell)" (im folgenden “Angebot”) auf.
+Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter Simon Dittlmann, charivari-action@dittlmann.eu auf der Action on Google "Radio Charivari Rosenheim (Inoffiziell)" (im folgenden “Angebot”) auf.
 
 Die rechtlichen Grundlagen des Datenschutzes finden sich im Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).
 
